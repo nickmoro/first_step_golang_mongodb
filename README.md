@@ -1,2 +1,2 @@
-# golang_mongodb
+# First step in Golang + MongoDB
 Научился взаимодействовать с MongoDB (читать и записывать информацию), заодно познакомился с системой модулей в Golang.
